@@ -1,9 +1,24 @@
 
+<div class="container">
+  <a href="https://clickLok.com"><img src="/media/clicklok_logo.png" alt="ClickLok Homepage" height="100px"></img></a>
+  <span style="padding-top: 20px; color: #fed136; font-family: Orbitron; font-size: 24px; font-weight: 400">ClickLok Standard</span>
+</div>
+
 # ClickLok Standard (Non-Stop Presentations)
 
 This is the Standard Version of the application – It is optimized for those who present and need to make sure nothing interrupts their presentation. Whether it’s a notification, a new app or even someone using the machine while the presentation is running ClickLok has you covered.
 
 The App is designed to make sure when you advance the presentation using a remote each time the button is clicked, that click goes to the presentation. 
+
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/README">General Info</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">ClickLok Pro Info</a></strong></th>
+                <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">ClickLok Standard Info</a></strong></th>
+    </tr>
+</table>
 
 
 ## Overview

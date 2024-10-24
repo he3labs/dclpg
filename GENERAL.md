@@ -6,9 +6,18 @@
 
 # Welcome to ClickLok Documentation
 
-<br>
 
 The following is the documentation for ClickLok. The left sidebar also breaks down the support documents by Standard and Professionl versions of the app.
+
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/README">General Info</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">ClickLok Pro Info</a></strong></th>
+                <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">ClickLok Standard Info</a></strong></th>
+    </tr>
+</table>
 
 ## Why Use ClickLok
 When presenting frequently the computer being used is being used for multiple purposes. Applications will display notifications, OS updates, or simply multi-tasking. Each of these can disrupt the presentation, but causing the presentation no longer to be the top window. When this happens the remote can no longer control the presentation
@@ -56,7 +65,7 @@ If you need more help, Use our Support form HERE for additional support
 
 | Standard  | Professional |
 |-----------|--------------|
-| 1. &nbsp; &nbsp; ✅ Redirect to PowerPoint      |  ✅ Reirect to PowerPoint  |
+| 1. &nbsp; &nbsp; ✅ 🚨 Redirect to PowerPoint      |  ✅ 🚨 Redirect to PowerPoint  |
 | 2. &nbsp; &nbsp; ✅ Stay On Top                 |  ✅ Stay On Top  |
 | 3. &nbsp; &nbsp; ✅ Single Monitor              |  ✅ Single Monitor  |
 | 4. &nbsp; &nbsp; ✅ Dual Monitor                |  ✅ Dual Monitor  |
@@ -78,8 +87,19 @@ If you need more help, Use our Support form HERE for additional support
 | 20. &nbsp; ❌                                   |  ✅ AutoRun - Taskbar Status  |
 
 
-| ✅ **Feature** | ⭐️ **Major Feature** |❌ **Not Supported** | 
-|--|--|--|
+<!-- | 🚨 **Premier Feature** | ⭐️ **Major Feature** | ✅ **Feature** | ❌ **Not Supported** | ℹ️ **Note** | -->
+<!-- |--|--|--|--|--| -->
+
+
+<table style="border-collapse: collapse; width: 100%;"> <!-- Full width and no visible lines -->
+    <tr>
+        <th style="padding: 12px; text-align: left; border: none;">🚨 <strong>Premier Feature</strong></th>
+        <th style="padding: 12px; text-align: left; border: none;">⭐️ <strong>Major Feature</strong></th>
+        <th style="padding: 12px; text-align: left; border: none;">✅ <strong>Feature</strong></th>
+        <th style="padding: 12px; text-align: left; border: none;">❌ <strong>Not Supported</strong></th>
+        <th style="padding: 12px; text-align: left; border: none;">ℹ️ <strong>Note</strong></th>
+    </tr>
+</table>
 
 
 ### Info Key
