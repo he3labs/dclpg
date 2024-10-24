@@ -1,0 +1,37 @@
+.sidebar>h1::before {
+    content: '';
+    display: block;
+    width: 35px;
+    /* Adjust size as needed */
+    height: 35px;
+    /* Adjust size as needed */
+    background-image: url('/media/clicklok_logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 10;
+    margin-top: 8.3%;
+    /* This pushes the image up by 10px */
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    /* background-color: black; */
+}
+
+
+
+table {
+    background-color: white;
+    /* Make table background transparent */
+}
+
+td {
+    background-color: white;
+    /* Make cell background transparent */
+    border: none;
+    /* Remove borders if needed */
+}
