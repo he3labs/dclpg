@@ -11,11 +11,13 @@ The following is the documentation for ClickLok. The left sidebar also breaks do
 
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/README">General Info</a></strong></th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="https://www.clicklok.com">Home</a></strong></th>
         <th style="background-color: white; padding: 10px; text-align: left;"> </th>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">ClickLok Pro Info</a></strong></th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/README">General</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">ClickLok Standard</a></strong></th>
                 <th style="background-color: white; padding: 10px; text-align: left;"> </th>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">ClickLok Standard Info</a></strong></th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">ClickLok Pro</a></strong></th>
     </tr>
 </table>
 
