@@ -294,7 +294,7 @@ The icons in the Notification Tray are usually hidden, but they help visually sh
 
 **WAIT** – (_System Waiting for PowerPoint to start_)
     
-![Wait1](media/wait1.png) ( <- -> ) ![Wait1](media/wait1.png)
+![Wait1](media/wait1.png) ( <- -> ) ![Wait1](media/wait2.png)
 
 
 
