@@ -15,11 +15,17 @@ The following is the documentation for ClickLok. The left sidebar also breaks do
         <th style="background-color: white; padding: 10px; text-align: left;"> </th>
         <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/README">General</a></strong></th>
         <th style="background-color: white; padding: 10px; text-align: left;"> </th>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">ClickLok Standard</a></strong></th>
-                <th style="background-color: white; padding: 10px; text-align: left;"> </th>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">ClickLok Pro</a></strong></th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">Standard</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">Pro</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="https://forms.gle/pP8mpyMLNanUgEbz9" target="_blank" rel="noopener noreferrer">Support</a></strong></th>
     </tr>
 </table>
+
+
+
+
 
 ## Why Use ClickLok
 When presenting frequently the computer being used is being used for multiple purposes. Applications will display notifications, OS updates, or simply multi-tasking. Each of these can disrupt the presentation, but causing the presentation no longer to be the top window. When this happens the remote can no longer control the presentation

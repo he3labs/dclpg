@@ -17,9 +17,11 @@ The App is designed to make sure when you advance the presentation using a remot
         <th style="background-color: white; padding: 10px; text-align: left;"> </th>
         <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/README">General</a></strong></th>
         <th style="background-color: white; padding: 10px; text-align: left;"> </th>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">ClickLok Standard</a></strong></th>
-                <th style="background-color: white; padding: 10px; text-align: left;"> </th>
-        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">ClickLok Pro</a></strong></th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/STANDARD">Standard</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="#/PRO">Pro</a></strong></th>
+        <th style="background-color: white; padding: 10px; text-align: left;"> </th>
+        <th style="background-color: lightlightgrey; padding: 10px; text-align: left;"><strong><a href="https://forms.gle/pP8mpyMLNanUgEbz9" target="_blank" rel="noopener noreferrer">Support</a></strong></th>
     </tr>
 </table>
 
